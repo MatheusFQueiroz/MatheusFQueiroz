@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, gosto de frameworks baseados em JavaScript e desenvolvimento de prototipos de alta fidelidade utilizando o Figma.</p>
-
-###
